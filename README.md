@@ -1,13 +1,6 @@
 # Facilitadores
 Linhas de código para facilitar a vida (utilitários)
 
-Pequenas linhas de código com função de mesclar arquivos ".pdf"
-
-Observação:
-
-Instalar no terminal do VS code:
-
-
-pip install PyPDF2
-
-pip install os
+Merge_pdf.py
+Documentation PyPDF2:
+> https://pypdf2.readthedocs.io/en/3.0.0/user/cropping-and-transforming.html
